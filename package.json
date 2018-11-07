@@ -1,0 +1,23 @@
+{
+  "name": "JADLOG_RASTREIO",
+  "version": "1.0.0",
+  "description": "Rastreamento JadLog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "jadlog",
+    "rastreio"
+  ],
+  "author": "Pedro Entringer",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-validator": "^5.3.0",
+    "request": "^2.88.0"
+  }
+}
