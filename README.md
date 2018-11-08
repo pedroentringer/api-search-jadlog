@@ -15,6 +15,8 @@ node index.js
 Para rastrear um CT-e basta utilizar o link {seu-dominio}/jadlog/rastreio/{cte}
 ```bash
 localhost:3000/jadlog/rastreio/123
+ou
+localhost:3000/jadlog/rastreio/dev/123
 ```
 
 ## Retorno - Sucesso
