@@ -1,3 +1,6 @@
+# Deprecated
+Jadlog changed the way to consult on its main site, so this service no longer works.
+
 # API - Rastreio JadLog
 
 API for tracking loads on the JadLog portal
